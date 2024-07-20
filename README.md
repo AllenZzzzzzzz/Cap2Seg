@@ -1,6 +1,6 @@
 # Cap2Seg: Leveraging Caption Generation for Enhanced Segmentation of COVID-19 Medical Images
 
-![Diagram](path-to-image)
+![Diagram](https://github.com/AllenZzzzzzzz/Cap2Seg/blob/main/figures/network.jpg)
 
 ## Requirements
 
