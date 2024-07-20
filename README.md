@@ -20,3 +20,4 @@ Data paths should be as follows:
 │   ├── Train_Folder
 │   ├── Val_Folder
 │   └── Test_Folder
+
