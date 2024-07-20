@@ -7,12 +7,11 @@
 The code is verified with Python 3.7 and PyTorch 1.13.1 Other dependencies are listed in `requirements.txt`.
 
 ## Datasets
+Download the datasets ([QaTa-COV19](https://www.kaggle.com/datasets/maedemaftouni/covid19-ct-scan-lesion-segmentation-dataset), [MosMedData+](https://www.kaggle.com/datasets/maedemaftouni/covid19-ct-scan-lesion-segmentation-dataset), DukeMTMC-reID, Occluded-Duke, VehicleID, VeRi-776), and then unzip them to your_dataset_dir.
 
-Download images from [QaTa-COV19 Dataset]([link-to-coco](https://www.kaggle.com/datasets/aysendegerli/qatacov19-dataset)).
-Download images from [MosMedData+ Dataset](https://www.kaggle.com/datasets/maedemaftouni/covid19-ct-scan-lesion-segmentation-dataset).
 
 Data paths should be as follows:
-.{YOUR_REFER_PATH}
+.{your_dataset_dir}
 ├── Covid19
   ├── Train_Folder
   ├── Val_Folder
