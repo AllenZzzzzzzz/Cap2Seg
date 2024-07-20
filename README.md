@@ -11,14 +11,3 @@ Download the datasets ([QaTa-COV19](https://www.kaggle.com/datasets/maedemaftoun
 
 
 Data paths should be as follows:
-
-{your_dataset_dir}
-
-├── Covid19
-│ ├── Train_Folder
-│ ├── Val_Folder
-│ └── Test_Folder
-├── MosMedData+
-│ ├── Train_Folder
-│ ├── Val_Folder
-│ └── Test_Folder
